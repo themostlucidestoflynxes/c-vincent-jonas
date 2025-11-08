@@ -3,7 +3,7 @@
  * https://developers.cloudflare.com/workers/wrangler/configuration/
  */ {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "pdf-library",
+	"name": "c-vincent-jonas",
 	"main": "api/index.js",
 	"compatibility_flags": ["nodejs_compat"],
 	"compatibility_date": "2025-10-08",
